@@ -30,7 +30,7 @@ react-counter-app/
 ├── package.json
 ├── vite.config.js
 └── README.md
-
+```
 ## 🚀 Getting Started
 
 ## 1. Clone the Repository:
