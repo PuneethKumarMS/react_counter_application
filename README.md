@@ -35,7 +35,7 @@ react-counter-app/
 
 ## 1. Clone the Repository:
 - git clone https://github.com/your-username/react-props-demo.git
-- cd react-props-demo
+- cd react-counter-app
 
 ## 2. Install Dependencies:
 - npm install
