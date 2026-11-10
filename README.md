@@ -1,4 +1,4 @@
-# React Counter App ( simple app)
+# React Counter App
 
 This is a simple and interactive **Counter Application** built with **React** using the `useState` hook. It demonstrates state management in functional components by allowing users to increment, decrement, reset, and customize the step value of a counter.
 
